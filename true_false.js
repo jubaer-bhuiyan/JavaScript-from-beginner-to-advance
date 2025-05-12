@@ -1,0 +1,15 @@
+const friendExamBamboo = false;
+const crushMessage = false;
+const celebrating = true;
+const isHappy = false;
+const hasMoney = false;
+const isHungry = true;
+const isStudyDone = false;
+const isPhoneCharged = false;
+const isDinnerDone = false;
+console.log(friendExamBamboo);
+console.log(crushMessage);
+console.log(celebrating);
+console.log(isHappy);
+console.log(hasMoney);
+console.log(isHungry);
