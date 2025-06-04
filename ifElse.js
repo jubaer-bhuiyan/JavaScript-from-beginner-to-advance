@@ -121,7 +121,7 @@ else{
 const shirtPrice = 500;
 const hasCoupon = true;
 if(shirtPrice > 1000 && hasCoupon == true){
-    console.log('You will get20% discount');
+    console.log('You will get 20% discount');
 }
 else{
     console.log('You have to pay full price');
