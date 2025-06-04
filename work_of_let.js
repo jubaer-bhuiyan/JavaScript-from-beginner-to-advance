@@ -9,12 +9,12 @@ console.log(pocketMoney);
 
 let studyTime = 4;
 studyTime = 3;
-console.log(studyTime);
+console.log("Total Study Time: " , studyTime);
 
 let friendCount = 3;
 let friendLeft = 2;
 friendCount = friendCount - friendLeft;
-console.log(friendCount);
+console.log("Total Number of Friend: ", friendCount);
 
 let phonePrice = 25000;
 phonePrice = 12000;
