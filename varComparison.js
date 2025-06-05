@@ -16,7 +16,7 @@ console.log(meReadBook == friendReadBook);
 
 const biscuitsIHave = 15;
 const biscuitsFriendHave = 20;
-console.log("I getless biscuits? ", biscuitsIHave < biscuitsFriendHave);
+console.log("I get less biscuits? ", biscuitsIHave < biscuitsFriendHave);
 
 const madridGoals = 3;
 const barcaGoals = 2;
