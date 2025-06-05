@@ -7,7 +7,7 @@ const isHungry = true;
 const isStudyDone = false;
 const isPhoneCharged = false;
 const isDinnerDone = false;
-console.log(friendExamBamboo);
+console.log( friendExamBamboo);
 console.log(crushMessage);
 console.log(celebrating);
 console.log(isHappy);
