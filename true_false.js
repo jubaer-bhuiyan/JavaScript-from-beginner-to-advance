@@ -10,6 +10,6 @@ const isDinnerDone = false;
 console.log(friendExamBamboo);
 console.log(crushMessage);
 console.log(celebrating);
-console.log(isHappy);
+console.log( isHappy);
 console.log(hasMoney);
 console.log(isHungry);
